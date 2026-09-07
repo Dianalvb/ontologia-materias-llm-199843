@@ -1,0 +1,1032 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="urn:webprotege:ontology:dac8bc07-0f41-43a7-a3cb-c3b2d3a00c26"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="urn:webprotege:ontology:dac8bc07-0f41-43a7-a3cb-c3b2d3a00c26">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7oLCJml9DjsDlHGp60Va0c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9gTtLOqpcBQZwOc3ijUbkV"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9nFrL50SROslszHpDfw25O"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCdXMUzdENdLkA8QLQdm2S6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCvg3XhCUysRSLeztczVzLs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Rk2a3hUhREvEXb3uCc0e9k"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Rz3dHGfVsw4b2sZz0UKIXC"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDfXTVg5QHXAW6KIGXNom11"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/RqQZvvdt6w1sECeEX8zZ5w"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBvUHZQsKewkslmFAoCgo82"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCHugdQ7pZN1vfIkDEWbniX"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCItzT4t5XeAVTBcftOgwCC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCK2to1lFtgZzZMFxCQKlCc"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROJaIrD10ErEtdAp27ulcn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RwWW93N23jDp7qe1ifTZvs"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7oLCJml9DjsDlHGp60Va0c"/>
+        <Class IRI="http://webprotege.stanford.edu/Rk2a3hUhREvEXb3uCc0e9k"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+        <Class IRI="http://webprotege.stanford.edu/RCdXMUzdENdLkA8QLQdm2S6"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9gTtLOqpcBQZwOc3ijUbkV"/>
+        <Class IRI="http://webprotege.stanford.edu/RCdXMUzdENdLkA8QLQdm2S6"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9nFrL50SROslszHpDfw25O"/>
+        <Class IRI="http://webprotege.stanford.edu/Rk2a3hUhREvEXb3uCc0e9k"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCdXMUzdENdLkA8QLQdm2S6"/>
+        <Class IRI="http://webprotege.stanford.edu/R7oLCJml9DjsDlHGp60Va0c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j"/>
+        <Class IRI="http://webprotege.stanford.edu/Rk2a3hUhREvEXb3uCc0e9k"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCvg3XhCUysRSLeztczVzLs"/>
+        <Class IRI="http://webprotege.stanford.edu/R7oLCJml9DjsDlHGp60Va0c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rz3dHGfVsw4b2sZz0UKIXC"/>
+        <Class IRI="http://webprotege.stanford.edu/RCdXMUzdENdLkA8QLQdm2S6"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBvUHZQsKewkslmFAoCgo82"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBvUHZQsKewkslmFAoCgo82"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBvUHZQsKewkslmFAoCgo82"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCHugdQ7pZN1vfIkDEWbniX"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCHugdQ7pZN1vfIkDEWbniX"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCHugdQ7pZN1vfIkDEWbniX"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCItzT4t5XeAVTBcftOgwCC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCItzT4t5XeAVTBcftOgwCC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCItzT4t5XeAVTBcftOgwCC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCK2to1lFtgZzZMFxCQKlCc"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCK2to1lFtgZzZMFxCQKlCc"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCK2to1lFtgZzZMFxCQKlCc"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RqQZvvdt6w1sECeEX8zZ5w"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RqQZvvdt6w1sECeEX8zZ5w"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROJaIrD10ErEtdAp27ulcn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROJaIrD10ErEtdAp27ulcn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROJaIrD10ErEtdAp27ulcn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RwWW93N23jDp7qe1ifTZvs"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RwWW93N23jDp7qe1ifTZvs"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+            <Datatype abbreviatedIRI="xsd:int"/>
+        </DataSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RwWW93N23jDp7qe1ifTZvs"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCItzT4t5XeAVTBcftOgwCC"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCK2to1lFtgZzZMFxCQKlCc"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBvUHZQsKewkslmFAoCgo82"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCItzT4t5XeAVTBcftOgwCC"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCK2to1lFtgZzZMFxCQKlCc"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROJaIrD10ErEtdAp27ulcn"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBvUHZQsKewkslmFAoCgo82"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCHugdQ7pZN1vfIkDEWbniX"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCItzT4t5XeAVTBcftOgwCC"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCK2to1lFtgZzZMFxCQKlCc"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROJaIrD10ErEtdAp27ulcn"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RwWW93N23jDp7qe1ifTZvs"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCHugdQ7pZN1vfIkDEWbniX"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RwWW93N23jDp7qe1ifTZvs"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBvUHZQsKewkslmFAoCgo82"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/RqQZvvdt6w1sECeEX8zZ5w"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS"/>
+        <Literal xml:lang="198447">int</Literal>
+    </DataPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDfXTVg5QHXAW6KIGXNom11"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP"/>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDfXTVg5QHXAW6KIGXNom11"/>
+        <Class IRI="http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <Class IRI="http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz"/>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDfXTVg5QHXAW6KIGXNom11"/>
+        <Class IRI="http://webprotege.stanford.edu/R9gTtLOqpcBQZwOc3ijUbkV"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY"/>
+        <Class IRI="http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+        <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/RqQZvvdt6w1sECeEX8zZ5w"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+        <Class IRI="http://webprotege.stanford.edu/R7oLCJml9DjsDlHGp60Va0c"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+        <Class IRI="http://webprotege.stanford.edu/Rk2a3hUhREvEXb3uCc0e9k"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+        <Class IRI="http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+        <Class IRI="http://webprotege.stanford.edu/Rk2a3hUhREvEXb3uCc0e9k"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RqQZvvdt6w1sECeEX8zZ5w"/>
+        <Class IRI="http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+        <Class IRI="http://webprotege.stanford.edu/Rk2a3hUhREvEXb3uCc0e9k"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://webprotege.stanford.edu/RqQZvvdt6w1sECeEX8zZ5w"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7VBwezL79XF5Gugvw03ZAq</IRI>
+        <Literal>tieneNombreMateria</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7oLCJml9DjsDlHGp60Va0c</IRI>
+        <Literal>Empleado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R85RmbLxmOp9oHd50D9eqqe</IRI>
+        <Literal>DiseñoSoftware</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8MoZRcUPiik9TiR5MKtGua</IRI>
+        <Literal>Juan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8zj5nrdfDbLSe0Y6wAtBjb</IRI>
+        <Literal>Profesor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R90EvuswGfOb9aflLHhtRpP</IRI>
+        <Literal>inscrito_En</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9YA7Dv3XNK24YS49dxHOaL</IRI>
+        <Literal>tieneNumeroCuentaEmpleado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9gTtLOqpcBQZwOc3ijUbkV</IRI>
+        <Literal>Coordinador</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9kmJm6qhAahZQWh16KWFvQ</IRI>
+        <Literal>Materia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9nFrL50SROslszHpDfw25O</IRI>
+        <Literal>Visitante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9vDbRA2rjOVw9Yw4pCe69L</IRI>
+        <Literal>tieneGenero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBCPdDletTdXwTw5awIbywz</IRI>
+        <Literal>imparte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBvUHZQsKewkslmFAoCgo82</IRI>
+        <Literal>AgentesInteligentes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCDtPDtO476JEhWHeUQ9YMS</IRI>
+        <Literal>Ara</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCHugdQ7pZN1vfIkDEWbniX</IRI>
+        <Literal>SimulacionProcesos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCItzT4t5XeAVTBcftOgwCC</IRI>
+        <Literal>RedesDigitalesDatos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCK2to1lFtgZzZMFxCQKlCc</IRI>
+        <Literal>LaboratorioRedesDigitalesDatos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCdXMUzdENdLkA8QLQdm2S6</IRI>
+        <Literal>Academico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCePBsZLhPh8Sw9DH2wwd5j</IRI>
+        <Literal>Alumno</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCvg3XhCUysRSLeztczVzLs</IRI>
+        <Literal>Administrativo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCwxHMO6b8tEU8xpWBV5AVo</IRI>
+        <Literal>Itz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDXIJeGpiiXD3PBHAPyfFDi</IRI>
+        <Literal>credito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDaxA5LNLIpJ5SxvICKmRZs</IRI>
+        <Literal>tieneEdad</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDfXTVg5QHXAW6KIGXNom11</IRI>
+        <Literal>solicitaRegistroCon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RGp7ZjrLGsdcg6LeAwHcOr</IRI>
+        <Literal>Salomon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RKMFsxdKgMIsISNAdhk3Hy</IRI>
+        <Literal>Rafa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RO8DhNS3BbvuisDOMeNJTL</IRI>
+        <Literal>Diana</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/ROJaIrD10ErEtdAp27ulcn</IRI>
+        <Literal>SistemasOperativos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/ROzh6WuESO2rgty5Pf2Fkg</IRI>
+        <Literal>Lucia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/ReMlsYSPXFUWGdRFH8tHrY</IRI>
+        <Literal>TomaClaseCon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rk2a3hUhREvEXb3uCc0e9k</IRI>
+        <Literal>Persona</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RoGfA7vLFR3zzu84Uuwf1B</IRI>
+        <Literal>Rocio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RqQZvvdt6w1sECeEX8zZ5w</IRI>
+        <Literal>tieneNumeroCuenta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RrtZnTqpRSaLshxhBY8uAm</IRI>
+        <Literal>tieneNombre</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rv0z8YnO8bZuzoO44G3rRK</IRI>
+        <Literal>Daniel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RwWW93N23jDp7qe1ifTZvs</IRI>
+        <Literal>DesarrolloProyectos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rz3dHGfVsw4b2sZz0UKIXC</IRI>
+        <Literal>Jefe_Departamento</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
